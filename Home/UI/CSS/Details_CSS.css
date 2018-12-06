@@ -1,0 +1,116 @@
+@CHARSET "UTF-8";
+.body
+{
+	height: 50%;
+	width: 98%;
+	margin: 0px 0px 0px 0px;
+}
+.form
+{
+	height: 50%;
+	width: 98%;
+	margin: auto;
+}
+.menu
+{
+	height: 20px;
+	width: 98%;
+	margin: 0px 0px 0px 20px;
+}
+.href
+{
+	height: 20px;
+	width: 50px;
+	font-family: 宋体;
+	font-size: 12px;
+}
+.head
+{
+	height: 200px;
+	width: 98%;
+	margin: auto;
+}
+.subject
+{
+	height: 50%;
+	width: 850px;
+	margin: 10px auto;
+}
+.image
+{
+	height: 400px;
+	width: 400px;
+	float: left;
+	margin: 0px 50px 20px 0px;
+}
+.textbox1
+{
+	height: 400px;
+	width: 400px;
+	float: left;
+}
+.title
+{
+	height: 20px;
+	width: 68px;
+	font-family: 宋体;
+	font-size: 12px;
+}
+.text1
+{
+	height: 20px;
+	width: 332px;
+	border: 0px;
+	background-color: transparent;
+	font-family: 宋体;
+	font-size: 12px;
+}
+.text2
+{
+	height: 20px;
+	width: 100px;
+	border: 0px;
+	background-color: transparent;
+	font-family: 宋体;
+	font-size: 12px;
+	text-align: center;
+}
+.button1
+{
+	height: 20px;
+	width: 50px;
+	font-family: 宋体;
+	font-size: 12px;
+}
+.button2
+{
+	height: 20px;
+	width: 100px;
+	font-family: 宋体;
+	font-size: 12px;
+}
+.result
+{
+	height: 20px;
+	width: 400px;
+	border: 0px;
+	background-color: transparent;
+	font-family: 宋体;
+	font-size: 12px;
+	color: #FF0000;
+	text-align: center;
+}
+.textbox2
+{
+	height: 100%;
+	width: 850px;
+}
+.details
+{
+	height: 100%;
+	width: 850px;
+	border: 0px;
+	background-color: transparent;
+	font-family: 宋体;
+	font-size: 12px;
+}

@@ -1,0 +1,103 @@
+@CHARSET "UTF-8";
+.body
+{
+	height: 50%;
+	width: 98%;
+	margin: 0px 0px 0px 0px;
+}
+.form
+{
+	height: 50%;
+	width: 98%;
+	margin: auto;
+}
+.menu
+{
+	height: 20px;
+	width: 98%;
+	margin: 0px 0px 0px 20px;
+}
+.href
+{
+	height: 20px;
+	width: 50px;
+	font-family: 宋体;
+	font-size: 12px;
+}
+.head
+{
+	height: 200px;
+	width: 98%;
+	margin: auto;
+}
+.subject
+{
+	height: 50%;
+	width: 300px;
+	margin: 10px auto;
+}
+.textbox
+{
+	height: 20px;
+	width: 300px;
+	margin: 0px 0px 0px 0px;
+}
+.result
+{
+	height: 20px;
+	width: 300px;
+	border: 0px;
+	background-color: transparent;
+	font-family: 宋体;
+	font-size: 12px;
+	color: #FF0000;
+	text-align: center;
+}
+.title
+{
+	height: 20px;
+	width: 68px;
+	border: 0px;
+	font-family: 宋体;
+	font-size: 12px;
+}
+.text
+{
+	height: 20px;
+	width: 232px;
+	font-family: 宋体;
+	font-size: 12px;
+}
+.verification
+{
+	height: 20px;
+	width: 120px;
+	font-family: 宋体;
+	font-size: 12px;
+}
+.code
+{
+	height: 20px;
+	width: 100px;
+	border: 0px;
+	background-color: transparent;
+	font-family: 宋体;
+	font-size: 12px;
+	font-weight: bolder;
+	letter-spacing: 10px;
+	color: #0000FF;
+	text-align: center;
+}
+.buttonbox
+{
+    height: 20px;
+    width: 168px;
+    margin: auto;
+}
+.button
+{
+    height: 20px;
+    width: 80px;
+    font-family: 宋体;
+    font-size: 12px;
+}

@@ -1,0 +1,162 @@
+@CHARSET "UTF-8";
+.body
+{
+	height: 50%;
+	width: 98%;
+	margin: 0px 0px 0px 0px;
+}
+.form
+{
+	height: 50%;
+	width: 98%;
+	margin: auto;
+}
+.head
+{
+	height: 200px;
+	width: 98%;
+	margin: auto;
+}
+.menubox
+{
+	height: 200px;
+	width: 5%;
+	float: left;
+    margin: 40px 0px 0px 1%;
+}
+.menu
+{
+	height: 20px;
+    width: 60px;
+    margin: 0px 0px 10px 0px;
+}
+.href
+{
+	height: 20px;
+    width: 60px;
+    font-family: 宋体;
+    font-size: 12px;
+}
+.subject
+{
+	height: 50%;
+	width: 90%;
+	float: left;
+    margin:0px 1% 0px 1%;
+}
+.table
+{
+	height: 20px;
+	width: 800px;
+	margin: auto;
+}
+.tr
+{
+	height: 20px;
+	width: 800px;
+}
+.result_tb
+{
+	height: 20px;
+	width: 800px;
+}
+.th1
+{
+    height: 20px;
+    width: 50px;
+    font-family: 宋体;
+    font-size: 12px;
+    text-align: center;
+}
+.th2
+{
+    height: 20px;
+    width: 100px;
+    font-family: 宋体;
+    font-size: 12px;
+    text-align: center;
+}
+.th3
+{
+    height: 20px;
+    width: 150px;
+    font-family: 宋体;
+    font-size: 12px;
+    text-align: center;
+}
+.th4
+{
+    height: 20px;
+    width: 200px;
+    font-family: 宋体;
+    font-size: 12px;
+    text-align: center;
+}
+.text_td1
+{
+	height: 20px;
+	width: 50px;
+}
+.text_td2
+{
+	height: 20px;
+	width: 100px;
+}
+.text_td3
+{
+	height: 20px;
+	width: 150px;
+}
+.button_td
+{
+	height: 20px;
+	width: 200px;
+}
+.result
+{
+	height: 20px;
+	width: 800px;
+	border: 0px;
+	background-color: transparent;
+	font-family: 宋体;
+	font-size: 12px;
+	color: #FF0000;
+	text-align: center;
+}
+.text1
+{
+	height: 20px;
+	width: 50px;
+	border: 0px;
+	background-color: transparent;
+	font-family: 宋体;
+	font-size: 12px;
+	text-align: center;
+}
+.text2
+{
+	height: 20px;
+	width: 100px;
+	border: 0px;
+	background-color: transparent;
+	font-family: 宋体;
+	font-size: 12px;
+	text-align: center;
+}
+.text3
+{
+	height: 20px;
+	width: 150px;
+	border: 0px;
+	background-color: transparent;
+	font-family: 宋体;
+	font-size: 12px;
+	text-align: center;
+}
+.button
+{
+    height: 20px;
+    width: 50px;
+    font-family: 宋体;
+    font-size: 12px;
+}
